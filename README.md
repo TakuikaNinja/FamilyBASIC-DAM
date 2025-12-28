@@ -40,7 +40,7 @@ This project is purely for preservation, demonstration, and educational purposes
 ## Acknowledgements
 
 - Thanks to forple, who scanned the typein pages.
-- Forum discussion: 
+- Forum discussion: https://forums.nesdev.org/viewtopic.php?t=26395
 - [Nintaco](https://nintaco.com/) was used to load BASIC programs from source files.
 - [Mesen2](https://www.mesen.ca/) was used for program testing/debugging.
 
