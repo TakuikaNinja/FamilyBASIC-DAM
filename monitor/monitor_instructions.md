@@ -30,5 +30,5 @@ Be sure to check the emulator's Family BASIC keyboard mapping before pressing th
 ## Screenshot
 
 Only the memory contents differ from the original magazine screenshot.
-![Assembler screen](FC-MONITOR_V2.png)
+![Monitor screen](FC-MONITOR_V2.png)
 

@@ -18,5 +18,5 @@ Notes:
 ## Screenshot
 
 The original magazine screenshot lacks the disassembly view. 
-![Assembler screen](FC-D.ASM.png)
+![Disassembler screen](FC-D.ASM.png)
 
